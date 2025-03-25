@@ -23,7 +23,9 @@ terletak pada bagaimana lingkungan pengguna dikonfigurasi setelah perpindahan, j
 akan diperbarui sesuai dengan pengguna alifpratama.
 
 
+
 2.  Prompt String (PS)
+
    a).Edit file .bash_profile, ganti prompt PS1 dengan ‘>’.
 
 ![Cuplikan layar 2025-03-25 231420](https://github.com/user-attachments/assets/f451d699-a54e-45f3-b9d6-0bd291469f61)
