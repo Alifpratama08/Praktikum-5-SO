@@ -54,7 +54,7 @@ akan diperbarui sesuai dengan pengguna alifpratama.
 
    ![image](https://github.com/user-attachments/assets/b31b1a19-6811-436f-accb-7ebc3dd9687a)
 
-6. Jobs
+5. Jobs
  
  
    Hasil program yang dijalankan
@@ -73,6 +73,7 @@ akan diperbarui sesuai dengan pengguna alifpratama.
     ![image](https://github.com/user-attachments/assets/273fa23f-94d0-489b-b771-efaf2470ae1b)
 
 
+
      Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke 
 background
 
@@ -82,6 +83,7 @@ background
        -$ bg
 
    ![image](https://github.com/user-attachments/assets/9311acfe-0461-4d66-8df2-1ee479ca5646)
+
 
 
    Stop program background dengan utilitas kil
@@ -94,7 +96,7 @@ background
 
    ![image](https://github.com/user-attachments/assets/cb94ec50-fa76-40cf-a7c1-786c4f2eb226)
 
-8. History
+6. History
 
     a).Ganti nilai HISTSIZE dari 1000 menjadi 20
 
