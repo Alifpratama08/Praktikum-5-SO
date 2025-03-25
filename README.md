@@ -1,5 +1,7 @@
 1. Eksekusi profil
+
    a).Edit file profile /etc/profile dan tampilkan pesan
+
    ![Cuplikan layar 2025-03-25 222502](https://github.com/user-attachments/assets/e10e9e86-f799-48f3-9016-f3bf308034bb)
 
    b).Ganti nama /home/mahasiswa dengan nama anda sendiri. Pada setiap file tersebut, cantumkan instruksi echo.
@@ -16,7 +18,7 @@
 terletak pada bagaimana lingkungan pengguna dikonfigurasi setelah perpindahan, jika menggunakan su alifpratama maka hanya berpindah ke pengguna tersebut tanpa mengubah lingkungan secara penuh, direktori kerja tetap di tempat sebelumnya dan variabel lingkungan seperti $PATH serta $HOME masih mengikuti pengguna sebelumnya, sedangkan jika menggunakan su - alifpratama maka perpindahan dilakukan secara penuh seperti simulasi login baru, direktori kerja akan berubah ke /home/alifpratama dan variabel lingkungan 
 akan diperbarui sesuai dengan pengguna alifpratama.
 
-2.  Prompt String (PS)
+3.  Prompt String (PS)
    a).Edit file .bash_profile, ganti prompt PS1 dengan ‘>’.
 
 ![Cuplikan layar 2025-03-25 231420](https://github.com/user-attachments/assets/f451d699-a54e-45f3-b9d6-0bd291469f61)
@@ -49,10 +51,14 @@ akan diperbarui sesuai dengan pengguna alifpratama.
 
 5. Jobs
    Hasil program yang dijalankan
+
        -$ jobs
+
    ![image](https://github.com/user-attachments/assets/4b7d27e8-ce6b-41f0-b6b5-527e81c25edf)
 
+
         -$ find / -print > files 2>/dev/null &
+
    ![image](https://github.com/user-attachments/assets/c77d45ad-7548-4ae6-8a99-8763e2f33bce)
 
        -$ jobs
@@ -74,15 +80,22 @@ background
    ![image](https://github.com/user-attachments/assets/cb94ec50-fa76-40cf-a7c1-786c4f2eb226)
 
 7. History
-   a).Ganti nilai HISTSIZE dari 1000 menjadi 20
+
+    a).Ganti nilai HISTSIZE dari 1000 menjadi 20
+
         -$ HISTSIZE=20
+
    ![image](https://github.com/user-attachments/assets/ecb8250f-42c9-4e66-945a-f1b5a7f968bd)
+
        -$ history
+
    ![image](https://github.com/user-attachments/assets/dbdb591a-3915-415a-8a6d-98affb17d0d4)
 
   b).Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir
      dilakukan
+  
        -$ !-5
+   
    ![image](https://github.com/user-attachments/assets/13188b6c-6190-47ac-8151-a66aee4add5b)
 
   c). Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer
