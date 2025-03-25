@@ -56,6 +56,7 @@ akan diperbarui sesuai dengan pengguna alifpratama.
 
 6. Jobs
  
+ 
    Hasil program yang dijalankan
 
        -$ jobs
@@ -68,24 +69,32 @@ akan diperbarui sesuai dengan pengguna alifpratama.
    ![image](https://github.com/user-attachments/assets/c77d45ad-7548-4ae6-8a99-8763e2f33bce)
 
        -$ jobs
-   ![image](https://github.com/user-attachments/assets/273fa23f-94d0-489b-b771-efaf2470ae1b)
-    Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke 
+
+    ![image](https://github.com/user-attachments/assets/273fa23f-94d0-489b-b771-efaf2470ae1b)
+
+
+     Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke 
 background
 
        -$ fg %1
    ![image](https://github.com/user-attachments/assets/75c0369c-080a-486f-aba9-088c14d3562e)
 
        -$ bg
+
    ![image](https://github.com/user-attachments/assets/9311acfe-0461-4d66-8df2-1ee479ca5646)
+
+
    Stop program background dengan utilitas kil
 
        -$ ps x
+
    ![image](https://github.com/user-attachments/assets/cea7ec99-6e45-4c0c-a47d-cd6f46d28bcb)
 
        -$ kill [Nomor PID] 
+
    ![image](https://github.com/user-attachments/assets/cb94ec50-fa76-40cf-a7c1-786c4f2eb226)
 
-7. History
+8. History
 
     a).Ganti nilai HISTSIZE dari 1000 menjadi 20
 
