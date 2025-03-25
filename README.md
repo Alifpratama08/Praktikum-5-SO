@@ -105,15 +105,21 @@ background
    ![image](https://github.com/user-attachments/assets/13188b6c-6190-47ac-8151-a66aee4add5b)
 
   c). Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer
+      
        -$ !!
+   
    ![image](https://github.com/user-attachments/assets/f219fbf1-17b4-4909-a05c-810d715b79e8)
 
    d).Ulangi instruksi pada history bufer nomor 150
+   
        -$ !150
+   
    ![image](https://github.com/user-attachments/assets/8a3867fb-98e6-4abf-a15a-f4d669ca030c)
 
    e).Ulangi instruksi dengan prefix “ls” 
+   
        -$ !ls
+  
    ![image](https://github.com/user-attachments/assets/8092bd82-7da0-4b18-889f-cfa48f62ead6)
 
 
