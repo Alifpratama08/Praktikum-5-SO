@@ -5,9 +5,13 @@
    ![Cuplikan layar 2025-03-25 222502](https://github.com/user-attachments/assets/e10e9e86-f799-48f3-9016-f3bf308034bb)
 
    b).Ganti nama /home/mahasiswa dengan nama anda sendiri. Pada setiap file tersebut, cantumkan instruksi echo.
+ 
    ![Cuplikan layar 2025-03-25 223340](https://github.com/user-attachments/assets/12eb9eed-b082-4cf8-a2b8-e21a7900e1cf)
+
    ![Cuplikan layar 2025-03-25 223842](https://github.com/user-attachments/assets/35276189-6b96-4c95-b9a5-4c0ea33d775f)
+
    ![Cuplikan layar 2025-03-25 223956](https://github.com/user-attachments/assets/61ebf4a6-0d8c-4b18-8341-5382977f8fcf)
+
    ![Cuplikan layar 2025-03-25 224141](https://github.com/user-attachments/assets/09145c48-36bf-4160-a20d-5dfdbaf31c4c)
    
    c). -Instruksi su alifpratama dan exit
@@ -32,7 +36,8 @@ akan diperbarui sesuai dengan pengguna alifpratama.
 ![image](https://github.com/user-attachments/assets/b03ebbad-ac3d-407a-baa5-402948b65eb9)
 
 4. Bash script
-   hasil jalankan script tersebut :
+
+    hasil jalankan script tersebut :
        -$ ./p1.sh ; ./p3.sh ; ./p2.sh
 
    ![image](https://github.com/user-attachments/assets/3d897be2-d75a-471e-956e-c180058623b1)
@@ -49,7 +54,8 @@ akan diperbarui sesuai dengan pengguna alifpratama.
 
    ![image](https://github.com/user-attachments/assets/b31b1a19-6811-436f-accb-7ebc3dd9687a)
 
-5. Jobs
+6. Jobs
+ 
    Hasil program yang dijalankan
 
        -$ jobs
