@@ -22,9 +22,11 @@ akan diperbarui sesuai dengan pengguna alifpratama.
 ![Cuplikan layar 2025-03-25 231420](https://github.com/user-attachments/assets/f451d699-a54e-45f3-b9d6-0bd291469f61)
 
  b).Eksperimen hasil PS1
+
 ![Cuplikan layar 2025-03-25 231208](https://github.com/user-attachments/assets/ec061b44-6926-4878-883d-afb4aa44b681)
 
 5. Log out
+
 ![image](https://github.com/user-attachments/assets/b03ebbad-ac3d-407a-baa5-402948b65eb9)
 
 6. Bash script
