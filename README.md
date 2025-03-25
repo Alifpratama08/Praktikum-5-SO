@@ -32,15 +32,19 @@ akan diperbarui sesuai dengan pengguna alifpratama.
 6. Bash script
    hasil jalankan script tersebut :
        -$ ./p1.sh ; ./p3.sh ; ./p2.sh
+
    ![image](https://github.com/user-attachments/assets/3d897be2-d75a-471e-956e-c180058623b1)
        -$ ./p1.sh &
+
    ![image](https://github.com/user-attachments/assets/89f9b233-926a-4bd5-bba1-33be977d1175)
        -$ ./p1.sh $ ./p2.sh & ./p3.sh &
+
    ![image](https://github.com/user-attachments/assets/3a2ed7b7-3c11-445d-84c8-a1256ef92047)
        -$ ( ./p1.sh ; ./p3.sh ) &
+
    ![image](https://github.com/user-attachments/assets/b31b1a19-6811-436f-accb-7ebc3dd9687a)
 
-7. Jobs
+8. Jobs
    Hasil program yang dijalankan
        -$ jobs
    ![image](https://github.com/user-attachments/assets/4b7d27e8-ce6b-41f0-b6b5-527e81c25edf)
@@ -60,7 +64,7 @@ background
        -$ kill [Nomor PID] 
    ![image](https://github.com/user-attachments/assets/cb94ec50-fa76-40cf-a7c1-786c4f2eb226)
 
-8. History
+9. History
    a).Ganti nilai HISTSIZE dari 1000 menjadi 20
         -$ HISTSIZE=20
    ![image](https://github.com/user-attachments/assets/ecb8250f-42c9-4e66-945a-f1b5a7f968bd)
