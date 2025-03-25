@@ -7,6 +7,7 @@
    ![Cuplikan layar 2025-03-25 223842](https://github.com/user-attachments/assets/35276189-6b96-4c95-b9a5-4c0ea33d775f)
    ![Cuplikan layar 2025-03-25 223956](https://github.com/user-attachments/assets/61ebf4a6-0d8c-4b18-8341-5382977f8fcf)
    ![Cuplikan layar 2025-03-25 224141](https://github.com/user-attachments/assets/09145c48-36bf-4160-a20d-5dfdbaf31c4c)
+   
    c). -Instruksi su alifpratama dan exit
   ![Cuplikan layar 2025-03-25 224325](https://github.com/user-attachments/assets/14e20e4b-5222-4fcd-adbb-a112da2366fd)
        -instruksi su - alifpratama dan exit
