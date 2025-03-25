@@ -18,14 +18,16 @@ akan diperbarui sesuai dengan pengguna alifpratama.
 
 3.  Prompt String (PS)
    a).Edit file .bash_profile, ganti prompt PS1 dengan ‘>’.
+
 ![Cuplikan layar 2025-03-25 231420](https://github.com/user-attachments/assets/f451d699-a54e-45f3-b9d6-0bd291469f61)
-   b).Eksperimen hasil PS1
+
+ b).Eksperimen hasil PS1
 ![Cuplikan layar 2025-03-25 231208](https://github.com/user-attachments/assets/ec061b44-6926-4878-883d-afb4aa44b681)
 
-4. Log out
+5. Log out
 ![image](https://github.com/user-attachments/assets/b03ebbad-ac3d-407a-baa5-402948b65eb9)
 
-5. Bash script
+6. Bash script
    hasil jalankan script tersebut :
        -$ ./p1.sh ; ./p3.sh ; ./p2.sh
    ![image](https://github.com/user-attachments/assets/3d897be2-d75a-471e-956e-c180058623b1)
@@ -36,7 +38,7 @@ akan diperbarui sesuai dengan pengguna alifpratama.
        -$ ( ./p1.sh ; ./p3.sh ) &
    ![image](https://github.com/user-attachments/assets/b31b1a19-6811-436f-accb-7ebc3dd9687a)
 
-6. Jobs
+7. Jobs
    Hasil program yang dijalankan
        -$ jobs
    ![image](https://github.com/user-attachments/assets/4b7d27e8-ce6b-41f0-b6b5-527e81c25edf)
@@ -56,7 +58,7 @@ background
        -$ kill [Nomor PID] 
    ![image](https://github.com/user-attachments/assets/cb94ec50-fa76-40cf-a7c1-786c4f2eb226)
 
-7. History
+8. History
    a).Ganti nilai HISTSIZE dari 1000 menjadi 20
         -$ HISTSIZE=20
    ![image](https://github.com/user-attachments/assets/ecb8250f-42c9-4e66-945a-f1b5a7f968bd)
