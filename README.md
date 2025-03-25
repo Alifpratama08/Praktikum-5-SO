@@ -1,6 +1,7 @@
 1. Eksekusi profil
    a).Edit file profile /etc/profile dan tampilkan pesan
    ![Cuplikan layar 2025-03-25 222502](https://github.com/user-attachments/assets/e10e9e86-f799-48f3-9016-f3bf308034bb)
+
    b).Ganti nama /home/mahasiswa dengan nama anda sendiri. Pada setiap file tersebut, cantumkan instruksi echo.
    ![Cuplikan layar 2025-03-25 223340](https://github.com/user-attachments/assets/12eb9eed-b082-4cf8-a2b8-e21a7900e1cf)
    ![Cuplikan layar 2025-03-25 223842](https://github.com/user-attachments/assets/35276189-6b96-4c95-b9a5-4c0ea33d775f)
@@ -14,16 +15,16 @@
 terletak pada bagaimana lingkungan pengguna dikonfigurasi setelah perpindahan, jika menggunakan su alifpratama maka hanya berpindah ke pengguna tersebut tanpa mengubah lingkungan secara penuh, direktori kerja tetap di tempat sebelumnya dan variabel lingkungan seperti $PATH serta $HOME masih mengikuti pengguna sebelumnya, sedangkan jika menggunakan su - alifpratama maka perpindahan dilakukan secara penuh seperti simulasi login baru, direktori kerja akan berubah ke /home/alifpratama dan variabel lingkungan 
 akan diperbarui sesuai dengan pengguna alifpratama.
 
-2.  Prompt String (PS)
+3.  Prompt String (PS)
    a).Edit file .bash_profile, ganti prompt PS1 dengan ‘>’.
 ![Cuplikan layar 2025-03-25 231420](https://github.com/user-attachments/assets/f451d699-a54e-45f3-b9d6-0bd291469f61)
    b).Eksperimen hasil PS1
 ![Cuplikan layar 2025-03-25 231208](https://github.com/user-attachments/assets/ec061b44-6926-4878-883d-afb4aa44b681)
 
-3. Log out
+4. Log out
 ![image](https://github.com/user-attachments/assets/b03ebbad-ac3d-407a-baa5-402948b65eb9)
 
-4. Bash script
+5. Bash script
    hasil jalankan script tersebut :
        -$ ./p1.sh ; ./p3.sh ; ./p2.sh
    ![image](https://github.com/user-attachments/assets/3d897be2-d75a-471e-956e-c180058623b1)
@@ -34,7 +35,7 @@ akan diperbarui sesuai dengan pengguna alifpratama.
        -$ ( ./p1.sh ; ./p3.sh ) &
    ![image](https://github.com/user-attachments/assets/b31b1a19-6811-436f-accb-7ebc3dd9687a)
 
-5. Jobs
+6. Jobs
    Hasil program yang dijalankan
        -$ jobs
    ![image](https://github.com/user-attachments/assets/4b7d27e8-ce6b-41f0-b6b5-527e81c25edf)
@@ -54,7 +55,7 @@ background
        -$ kill [Nomor PID] 
    ![image](https://github.com/user-attachments/assets/cb94ec50-fa76-40cf-a7c1-786c4f2eb226)
 
-6. History
+7. History
    a).Ganti nilai HISTSIZE dari 1000 menjadi 20
         -$ HISTSIZE=20
    ![image](https://github.com/user-attachments/assets/ecb8250f-42c9-4e66-945a-f1b5a7f968bd)
