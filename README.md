@@ -1,3 +1,7 @@
+Nama : Muhammad Alif Pratama
+Kelas : TK2B
+Nim : 09030582428065
+
 1. Eksekusi profil
 
    a).Edit file profile /etc/profile dan tampilkan pesan
